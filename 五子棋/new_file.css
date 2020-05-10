@@ -1,0 +1,12 @@
+.goband{
+	display: flex;
+	flex-wrap: wrap;
+	width: 600px;
+}
+.board{
+	width: 28px;
+	height: 28px;
+	border: 1px solid black;
+	text-align: center;
+	line-height: 28px;
+}
